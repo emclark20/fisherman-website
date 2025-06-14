@@ -46,6 +46,9 @@ export default function Services() {
               Initial Prices are for 1-2 people. Additional people are $50 each. Charters can have a max of 6 people.
             </p>
           </div>
+          <div>
+            <p>For the safety and enjoyment of all our guests, participants must be able to follow instructions from the crew, understand and respond to safety briefings, and be able to move independently around the boat. Guests requiring significant assistance or supervision due to cognitive or physical limitations may not be able to be accommodated on our standard fishing charters. We encourage you to contact us directly to discuss any specific needs or concerns.</p>
+          </div>
         </div>
       </section>
     );

@@ -6,7 +6,7 @@ export default function HeroSection() {
     <section className="hero">
       <div className="hero-content">
       <div className="wrapper">
-        <h1>Experience the Best Fishing Trip</h1>
+        <h1>Experience the Fishing Trip of A Lifetime</h1>
         <p>Professional fishing services with a decade of experience on the water</p>
         </div>
         <div className="hero-cta">
