@@ -5,7 +5,7 @@ export default function About() {
         <div className="about-content">
           <div className="about-image">
 
-            <img src= "/about1.JPG" alt="Our fishing boat and crew" />
+            <Image src= "/about1.JPG" alt="Our fishing boat and crew" />
           </div>
           <div className="about-text">
     
