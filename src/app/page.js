@@ -12,8 +12,8 @@ export default function Home() {
             We specialize in giving valuable fishing trips to people of all different experience levels.
           </p>
           <p>
-          Whether you're interested in tarpin trips, or want to book a charter experience,
-          we're here to provide you with an authentic and unforgettable maritime adventure.
+          Whether you are interested in tarpin trips, or want to book a charter experience,
+          we are here to provide you with an authentic and unforgettable maritime adventure.
           </p>
           <div className="highlights">
             <div className="highlight-item">
@@ -26,7 +26,7 @@ export default function Home() {
             </div>
             <div className="highlight-item">
               <h3>Sustainable Practices</h3>
-              <p>We're committed to responsible fishing methods that protect our oceans for future generations.</p>
+              <p>We are committed to responsible fishing methods that protect our oceans for future generations.</p>
             </div>
           </div>
         </div>
