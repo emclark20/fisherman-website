@@ -18,7 +18,7 @@ export default function About() {
             <h2>Our Commitment</h2>
             <p>
             Drifting and Dreaming Charters was founded by Captain Lucas Engel, a second-generation fisherman with a passion for the sea and sustainable fishing practices.
-              We're committed to environmentally responsible fishing practices that ensure the health of our oceans 
+              We&apos;re committed to environmentally responsible fishing practices that ensure the health of our oceans 
               for future generations. This includes using selective fishing gear, adhering to catch limits, and 
               participating in local conservation efforts.
             </p>
