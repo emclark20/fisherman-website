@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Drifting and Dreaming</h3>
-            <p>Professional commercial fishing services with years of experience.</p>
+            <p>Professional charter fishing services with years of experience.</p>
           </div>
           <div className="footer-section">
             <h3>Quick Links</h3>
